@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/vboxuser/Downloads/README.md" added="2024-03-13T19:41:55.060652Z" modified="2024-03-13T19:41:55.060655Z" visited="2024-03-13T19:41:55.060653Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-03-13T19:41:55.060654Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vboxuser/Downloads/istockphoto-1443562748-612x612.jpg" added="2024-03-13T19:44:34.242874Z" modified="2024-03-13T19:44:34.543625Z" visited="2024-03-13T19:44:34.242875Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-03-13T19:44:34.242876Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2024-03-13T19:44:34.543623Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

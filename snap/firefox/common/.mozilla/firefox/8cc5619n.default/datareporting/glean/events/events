@@ -1,0 +1,13 @@
+{"timestamp":524447,"category":"fog.validation","name":"validate_early_event"}
+{"timestamp":527575,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required"}}
+{"timestamp":531286,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","experiment":"device-migration-q4-spotlights-remaining-population","branch":"treatment"}}
+{"timestamp":531438,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"nimbus","experiment":"firefox-desktop-long-term-holdback-validation-release","branch":"delivery"}}
+{"timestamp":531454,"category":"nimbus_events","name":"is_ready"}
+{"timestamp":547255,"category":"nimbus_events","name":"exposure","extra":{"experiment":"firefox-accounts-toolbar-button-default-visibility-new-users-part-3","branch":"control","feature_id":"fxms-message-6"}}
+{"timestamp":555191,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","experiment":"phc-rollout","branch":"rollout"}}
+{"timestamp":555241,"category":"nimbus_events","name":"unenrollment","extra":{"reason":"recipe-not-seen","experiment":"spocs-endpoint-rollout-release","branch":"control"}}
+{"timestamp":555283,"category":"nimbus_events","name":"is_ready"}
+{"timestamp":561149,"category":"serp","name":"impression","extra":{"provider":"google","is_private":"false","shopping_tab_displayed":"true","tagged":"true","is_shopping_page":"false","impression_id":"72873519-a6cc-46bc-a64f-a24e591c495a","source":"urlbar_handoff","partner_code":"ubuntu-sn"}}
+{"timestamp":561216,"category":"translations.panel","name":"open","extra":{"opened_from":"translationsButton","view_name":"defaultView","flow_id":"5dc17a65-c57f-4630-b634-416ec53eebd7","document_language":"uk","auto_show":"true","first_interaction":"true"}}
+{"timestamp":561785,"category":"translations.panel","name":"close","extra":{"first_interaction":"true","flow_id":"5dc17a65-c57f-4630-b634-416ec53eebd7"}}
+{"timestamp":562677,"category":"serp","name":"abandonment","extra":{"reason":"navigation","impression_id":"72873519-a6cc-46bc-a64f-a24e591c495a"}}

@@ -1,0 +1,5 @@
+{"timestamp":531286,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","experiment":"device-migration-q4-spotlights-remaining-population","branch":"treatment"}}
+{"timestamp":531438,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"nimbus","experiment":"firefox-desktop-long-term-holdback-validation-release","branch":"delivery"}}
+{"timestamp":547255,"category":"nimbus_events","name":"exposure","extra":{"experiment":"firefox-accounts-toolbar-button-default-visibility-new-users-part-3","branch":"control","feature_id":"fxms-message-6"}}
+{"timestamp":555191,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","experiment":"phc-rollout","branch":"rollout"}}
+{"timestamp":555241,"category":"nimbus_events","name":"unenrollment","extra":{"reason":"recipe-not-seen","experiment":"spocs-endpoint-rollout-release","branch":"control"}}
